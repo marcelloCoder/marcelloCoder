@@ -3,7 +3,7 @@
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Java and Spring Boot
 
-![marcelloCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloCoder&show_icons=true&theme=transparent)
+![marcelloCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloCoder&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloCoder&layout=compact&theme=dark)](https://github.com/marcelloCoder/github-readme-stats)
 
 <h2>🚀 Some Tools I Use</h2>
