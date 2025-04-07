@@ -1,7 +1,7 @@
 ### Hi! My name is Marcello! Welcome to my GitHub!
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning Java for Spring Boot web applications and Kotlin for Mobile applications!!
 
 ![marcelloCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloCoder&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloCoder&layout=compact&theme=dark)](https://github.com/marcelloCoder/github-readme-stats)
@@ -15,4 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="maven" width="25" height="25" />
 </p>
