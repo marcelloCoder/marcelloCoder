@@ -1,5 +1,6 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAljnD9WNO/giphy.gif">
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 # Welcome!
 ## I'm Marcello! Let me present a little about myself !D
 
