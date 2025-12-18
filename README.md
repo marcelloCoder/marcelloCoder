@@ -1,20 +1,14 @@
-### Hi! My name is Marcello! Welcome to my GitHub!
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAljnD9WNO/giphy.gif">
 
-<!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Java for Spring Boot web applications and Kotlin for Mobile applications!!
+# Welcome!
+## I'm Marcello! Let me present a little about myself !D
 
-![marcelloCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloCoder&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloCoder&layout=compact&theme=dark)](https://github.com/marcelloCoder/github-readme-stats)
+Backend focused in Java | Software engineer :robot:
+Lover of Technology and coding :heart:
 
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="25" height="25" />
-</p>
+## About me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcelloCoder)](https://github.com/marcelloCoder)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/marcello-mueno)](https://www.linkedin.com/in/marcello-mueno/)
+
+- Thanks for visiting.
+- Enjoy till o/
